@@ -1,2 +1,2 @@
-# Painel de horas
- site que mostra as horas e imagens que correspondem com o período da manhã, tarde e noite
+# clock-panel
+shows time and images that correspond with morning, afternoon and night periods. Based on Curso em Vídeo.
